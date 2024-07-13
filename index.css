@@ -432,7 +432,7 @@ ul.partners>li.last {
 
 
 .prodSec {
-    padding: 100px 0;
+    padding: 100px 28px;
 
 }
 
@@ -1933,9 +1933,6 @@ ul.partners>li.last {
     z-index: -1;
 }
 
-.prodSec {
-    padding: 100px 0;
-}
 
 .prodWrapper {
     margin-top: 40px;
@@ -3050,9 +3047,6 @@ ul.partners>li.last {
     z-index: -1;
 }
 
-.prodSec {
-    padding: 100px 0;
-}
 
 .prodWrapper {
     margin-top: 40px;
